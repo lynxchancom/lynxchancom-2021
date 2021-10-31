@@ -315,6 +315,7 @@ input[type="search"] { /* reset normalize */
 	transition: opacity 0.5s;
 	-webkit-transition-timing-function: cubic-bezier(0.7,0,0.3,1);
 	transition-timing-function: cubic-bezier(0.7,0,0.3,1);
+	/*z-index: 1111;禁用*/
 }
 
 .morphsearch.open ~ .overlay {

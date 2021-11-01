@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Lynxchan
+subtitle: .com
+email: youdemo@pm.me
+description: collects imageboard and .onion website links.
 baseurl: "/aiokok" # the subpath of your site, e.g. /blog
 url: https://aiokok.github.io # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 7 Road Lunar Base
+city: Lunar
+state: Lunar
+zip_code: 77777
+country: Lunar
+phone: (007) 707-0007
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -24,10 +24,10 @@ tiles-count: 6
 socials:
   GitHub: https://github.com/andrewbanchich
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  #Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  #LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  #Twitter: https://twitter.com/andrewbanchich
   Facebook:
   Slack:
 

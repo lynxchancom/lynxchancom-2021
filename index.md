@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'LynxChan.com'
+landing-title: 'www.LynxChan.com'
 description: null
 image: null
 author: null

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: View website link in search
 image: assets/images/pic01.jpg
 nav-menu: true
 ---

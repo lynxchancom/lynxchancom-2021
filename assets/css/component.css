@@ -219,7 +219,7 @@ input[type="search"] { /* reset normalize */
 
 .dummy-column {
 	width: 30%;
-	padding: 0 0 6em;
+	padding: 0 0 1em;
 	float: left;
 	opacity: 0;
 	-webkit-transform: translate3d(0,100px,0);
@@ -283,7 +283,8 @@ input[type="search"] { /* reset normalize */
 
 .dummy-media-object img {
 	display: inline-block;
-	width: 50px;	
+	width: 50px;
+	height: 50px;
 	margin: 0 10px 0 0;
 	vertical-align: middle;
 }

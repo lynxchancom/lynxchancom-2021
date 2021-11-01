@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Imageboard system
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Imageboard system Description.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,13 +13,14 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>2chan</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>1, <a href="https://www.2chan.net/">Futaba Channel</a>, also sometimes called 2chan, is an imageboard in Japan. A popular Japanese website, it deals with a wide variety of topics, from daily personal problems to junk food, sports, ramen, and otaku and underground culture.<br>
+		2, <a href="https://en.wikipedia.org/wiki/2channel">2channel</a>, also known as 2ch, was an anonymous Japanese textboard[b] founded in 1999 by Hiroyuki Nishimura. Described in 2007 as "Japan's most popular online community", the site had a level of influence comparable to that of traditional mass media such as television, radio, and magazines.</p>
 	</div>
 </section>
 
-<!-- Two -->
+<!-- Two ---
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
@@ -70,8 +71,8 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-
-<!-- Three -->
+ -->
+<!-- Three---
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -83,5 +84,5 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
-
+ -->
 </div>

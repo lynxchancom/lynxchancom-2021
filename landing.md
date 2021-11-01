@@ -12,33 +12,35 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>2chan</h2>
-		</header>
-		<p>1, <a href="https://www.2chan.net/">Futaba Channel</a>, https://github.com/hametsu/futaba http://www.2chan.net/script/<br>
-		2, <a href="https://en.wikipedia.org/wiki/2channel">2channel</a>, also known as 2ch, was an anonymous Japanese textboard[b] founded in 1999 by Hiroyuki Nishimura. Described in 2007 as "Japan's most popular online community", the site had a level of influence comparable to that of traditional mass media such as television, radio, and magazines.</p>
+		<!--<header class="major">
+			<h2>xxx</h2> 
+		</header>-->
+		<p>Here are various image board systems!</p>
 	</div>
 </section>
 
 <!-- Two --- -->
 <section id="two" class="spotlights">
-	<!--<section>
+	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Futaba Channel</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p><a href="https://www.2chan.net/">Futaba Channel</a>, <br>
+					demo: https://www.2chan.net/ <br>
+					website: http://www.2chan.net/script/ <br>
+					Github: https://github.com/hametsu/futaba.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section>
+	<!--<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -49,7 +51,7 @@ nav-menu: true
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -64,14 +66,14 @@ nav-menu: true
 					<h3>Lynxchan</h3>
 				</header>
 				https://gitgud.io/LynxChan/LynxChan
-				<p>LynxChan is a chan engine designed with the following goals in mind:
-Fully support users not using javascript.
-Make every information available in json format.
-Support the most amount of users with the least hardware power.
-Having a modular front-end so people can easily create and use different templates.
+				<p>LynxChan is a chan engine designed with the following goals in mind:<br>
+Fully support users not using javascript.<br>
+Make every information available in json format.<br>
+Support the most amount of users with the least hardware power.<br>
+Having a modular front-end so people can easily create and use different templates.<br>
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

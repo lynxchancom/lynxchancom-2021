@@ -76,7 +76,8 @@ body {
 }
 
 .morphsearch.open .morphsearch-input {
-	font-size: 7em;
+	font-size: 2em;
+	background: #535353;
 }
 
 /* placeholder */

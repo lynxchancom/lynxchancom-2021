@@ -2,7 +2,7 @@
 layout: post
 title: APP
 description: Mobile App
-image: assets/images/pic11.jpg
+image: assets/images/app.png
 nav-menu: true
 ---
 

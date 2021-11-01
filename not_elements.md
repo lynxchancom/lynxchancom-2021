@@ -1,8 +1,9 @@
 ---
 layout: page
 title: View website link in search
-image: assets/images/pic01.jpg
-nav-menu: true
+#image: assets/images/pic01.jpg
+#nav-menu: true
+
 ---
 
 <!-- Main -->

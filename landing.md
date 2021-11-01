@@ -15,14 +15,14 @@ nav-menu: true
 		<header class="major">
 			<h2>2chan</h2>
 		</header>
-		<p>1, <a href="https://www.2chan.net/">Futaba Channel</a>, also sometimes called 2chan, is an imageboard in Japan. A popular Japanese website, it deals with a wide variety of topics, from daily personal problems to junk food, sports, ramen, and otaku and underground culture.<br>
+		<p>1, <a href="https://www.2chan.net/">Futaba Channel</a>, https://github.com/hametsu/futaba http://www.2chan.net/script/<br>
 		2, <a href="https://en.wikipedia.org/wiki/2channel">2channel</a>, also known as 2ch, was an anonymous Japanese textboard[b] founded in 1999 by Hiroyuki Nishimura. Described in 2007 as "Japan's most popular online community", the site had a level of influence comparable to that of traditional mass media such as television, radio, and magazines.</p>
 	</div>
 </section>
 
-<!-- Two ---
+<!-- Two --- -->
 <section id="two" class="spotlights">
-	<section>
+	<!--<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -53,7 +53,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section>-->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
@@ -61,17 +61,23 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Lynxchan</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				https://gitgud.io/LynxChan/LynxChan
+				<p>LynxChan is a chan engine designed with the following goals in mind:
+Fully support users not using javascript.
+Make every information available in json format.
+Support the most amount of users with the least hardware power.
+Having a modular front-end so people can easily create and use different templates.
+				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> 
 </section>
- -->
+
 <!-- Three---
 <section id="three">
 	<div class="inner">

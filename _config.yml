@@ -1,7 +1,7 @@
 # site settings
 title: demo
 subtitle: .com
-email: youdemo@pm.me
+email: demo@pm.me
 description: A collection site for imageboard links(including .onion)
 baseurl: "/demo" # the subpath of your site, e.g. /blog
 url: https://aiokok.github.io # the base hostname & protocol for your site

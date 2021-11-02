@@ -2,8 +2,7 @@
 layout: post
 title: APP
 description: Mobile App
-image: https://chandevel.github.io/Clover/images/nexus9_home_framed_500.png
-#assets/images/app.png
+image: assets/images/chan_app.png
 nav-menu: true
 
 ---

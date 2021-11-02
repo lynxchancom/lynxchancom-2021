@@ -5,9 +5,10 @@ description: Mobile App
 #image: https://chandevel.github.io/Clover/images/nexus9_home_framed_500.png
 #assets/images/app.png
 nav-menu: true
+
 ---
 
-1,**Clover**
+1)  **Clover**
 
 The best 4chan browser for Android
 
@@ -20,7 +21,7 @@ Source code on GitHub: [https://github.com/chandevel/Clover](https://github.com/
 Clover is a fast Android app for browsing imageboards, such as 4chan and 8chan. It adds inline replying, thread watching, notifications, themes, pass support, filters and a whole lot more. Clover is licensed under the GPL and will always be free.
 
 
-2,**Dashchan**
+2） **Dashchan**
 
 Imageboards client for Android
 

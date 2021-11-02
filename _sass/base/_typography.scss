@@ -32,8 +32,8 @@
 			'color #{_duration(transition)} ease-in-out',
 			'border-bottom-color #{_duration(transition)} ease-in-out'
 		));
-		border-bottom: dotted 1px;
-		color: inherit;
+		/*border-bottom: dotted 1px;*/
+		color: #a8a800;
 		text-decoration: none;
 
 		&:hover {

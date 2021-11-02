@@ -41,22 +41,26 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<!--<section>
+	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="https://github.com/derpibooru/philomena/raw/master/assets/static/images/phoenix.svg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Philomena</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+					demo: [https://derpibooru.org/](https://derpibooru.org/) <br>
+					website: [https://derpibooru.org/](https://derpibooru.org/) <br>
+					Github: https://github.com/derpibooru/philomena.<br>
+				Next-generation imageboard software. This software development project is independent from any image hosting project.</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="https://derpibooru.org/" class="button">website</a></li>
 				</ul>
 			</div>
 		</div>
-	</section>-->
+	</section>
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />

@@ -3,7 +3,7 @@ title: Lynxchan
 subtitle: .com
 email: youdemo@pm.me
 description: A collection site for imageboard links(including .onion)
-baseurl: "/aiokok" # the subpath of your site, e.g. /blog
+baseurl: "/demo" # the subpath of your site, e.g. /blog
 url: https://aiokok.github.io # the base hostname & protocol for your site
 author:
 street_address: 7 Road Lunar Base

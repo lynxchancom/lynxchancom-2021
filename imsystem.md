@@ -24,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="https://www.2chan.net/2chan.gif" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -51,8 +51,8 @@ nav-menu: true
 					<h3>Philomena</h3>
 				</header>
 				<p>
-					demo: [https://derpibooru.org/](https://derpibooru.org/) <br>
-					website: [https://derpibooru.org/](https://derpibooru.org/) <br>
+					demo: https://derpibooru.org/ <br>
+					website: https://derpibooru.org/ <br>
 					Github: https://github.com/derpibooru/philomena.<br>
 				Next-generation imageboard software. This software development project is independent from any image hosting project.</p>
 				<ul class="actions">

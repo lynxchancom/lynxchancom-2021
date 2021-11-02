@@ -259,9 +259,9 @@ input[type="search"] { /* reset normalize */
 .dummy-column h2 {
 	font-size: 1em;
 	letter-spacing: 1px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-weight: 800;
-	color: #c2c2c2;
+	color: #f94e28;
 	padding: 0.5em 0;
 }
 
@@ -280,7 +280,7 @@ input[type="search"] { /* reset normalize */
 
 .dummy-media-object:hover,
 .dummy-media-object:focus {
-	background: rgba(118,117,128,0.1);
+	background: rgb(242 149 69 / 41%);
 }
 
 .dummy-media-object img {

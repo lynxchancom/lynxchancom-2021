@@ -10,7 +10,8 @@ body {
 .morphsearch {
 	width: 200px;
 	min-height: 40px;
-	background: #a6a6a6e8;
+	/*background: #a6a6a6e8;*/
+	background-image: linear-gradient(to bottom right, #ff0000c7 , #ffff0094);
 	position: absolute;
 	z-index: 10000;
 	top: 5px;
@@ -47,7 +48,7 @@ body {
 
 .morphsearch.open .morphsearch-form {
 	width: 80%;
-	height: 160px;
+	height: 80px;
 	-webkit-transform: translate3d(0,3em,0);
 	transform: translate3d(0,3em,0);
 }

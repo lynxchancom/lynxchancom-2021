@@ -1,7 +1,7 @@
 # site settings
-title: demo
+title: Lynxchan
 subtitle: .com
-email: demo@pm.me
+email: youdemo@pm.me
 description: A collection site for imageboard links(including .onion)
 baseurl: '' # the subpath of your site, e.g. /blog
 url: https://lynxchancom.github.io # the base hostname & protocol for your site

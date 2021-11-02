@@ -31,3 +31,13 @@ Download APK: [https://github.com/Mishiranu/Dashchan/releases](https://github.co
 Source code on GitHub: [https://github.com/Mishiranu/Dashchan](https://github.com/Mishiranu/Dashchan)
 
 Dashchan doesn't support imageboards by itself. It uses extension applications for this purpose. The list of extensions is available at the project home page.
+
+3) **Omnichan**
+
+Download APK:[http://phobos.one/omnichan/](http://phobos.one/omnichan/)
+
+Source code on GitHub:[https://github.com/PhobosOne/Omnichan](https://github.com/PhobosOne/Omnichan)
+
+a new multi-imageboard app for Android.
+
+Browse 4chan and 8chan as they were meant to be. With its fast, snappy interface and tons of features, you'll no longer have to switch between apps or the mobile site.

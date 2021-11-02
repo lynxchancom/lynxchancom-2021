@@ -47,7 +47,7 @@
 	}
 
 	strong, b {
-		color: _palette(fg-bold);
+		color: #f63e3e;
 		font-weight: _font(weight-bold);
 	}
 
@@ -64,7 +64,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: _palette(fg-bold);
+		color: #898989;
 		font-weight: _font(weight-bold);
 		line-height: 1.65;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;

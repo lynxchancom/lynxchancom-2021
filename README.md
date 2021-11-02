@@ -1,7 +1,6 @@
 # About
 
-[www.LynxChan.com](www.LynxChan.com)
-A COLLECTION SITE FOR IMAGEBOARD LINKS(INCLUDING .ONION)
+
 
 # Adopt Forty - Jekyll Theme
 

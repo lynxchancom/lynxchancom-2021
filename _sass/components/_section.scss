@@ -18,8 +18,8 @@
 			width: -webkit-max-content;
 			width: -ms-max-content;
 			width: max-content;
-      max-width: 100%;
-			margin-bottom: _size(element-margin);
+      			max-width: 100%;
+			/*margin-bottom: _size(element-margin);*/
 
 			> :first-child {
 				  margin-bottom: 0;
@@ -29,9 +29,9 @@
 					    content: '';
 					    background-color: _palette(fg-bold);
 					    display: block;
-					    height: 2px;
-					    margin: 0.325em 0 0.5em 0;
+					    height: 1px;
 					    width: 100%;
+					    margin: auto;
 				  }
 			}
 

@@ -2,6 +2,7 @@
 layout: page
 title: View website link in search
 #image: assets/images/pic01.jpg
+#https://cn.bing.com/th?id=OHR.VarandhaGhat_ZH-CN1268827595_1920x1080.jpg
 #nav-menu: true
 
 ---

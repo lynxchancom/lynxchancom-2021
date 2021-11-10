@@ -15,4 +15,20 @@
     </header>
   </article>
   {% endfor %}
+    
+    <div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: 'location.href',
+  owner: 'lynxchancom',
+  repo: 'repo',
+  oauth: {
+    client_id: '5cb5351385fec11146d5',
+    client_secret: '50d017ae36760d13957b7ff975a800155d68675c',
+  },
+})
+gitment.render('container')
+</script>
 </section>

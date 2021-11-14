@@ -1,9 +1,10 @@
 ---
 layout: page
 title: comments
-#image: assets/images/pic01.jpg
-#https://cn.bing.com/th?id=OHR.VarandhaGhat_ZH-CN1268827595_1920x1080.jpg
-#nav-menu: true
+description: leave a message
+image: https://cn.bing.com/th?id=OHR.VarandhaGhat_ZH-CN1268827595_1920x1080.jpg
+#assets/images/pic01.jpg
+nav-menu: true
 
 ---
 

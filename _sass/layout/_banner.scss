@@ -73,9 +73,9 @@
 			}
 
 			.content {
-				@include vendor('display', 'flex');
+				/*@include vendor('display', 'flex');*/
 				@include vendor('align-items', 'center');
-				margin: 0 0 _size(element-margin) 0;
+				/*margin: 0 0 _size(element-margin) 0;*/
 
 				> * {
 					/*margin-left: 1.5em;

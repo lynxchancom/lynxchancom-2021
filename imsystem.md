@@ -78,7 +78,7 @@ Support the most amount of users with the least hardware power.<br>
 Having a modular front-end so people can easily create and use different templates.<br>
 				</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="https://gitgud.io/LynxChan/LynxChan" class="button">website</a></li>
 				</ul>
 			</div>
 		</div>
